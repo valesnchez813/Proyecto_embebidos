@@ -1,12 +1,12 @@
 # Monitor Inteligente de Riesgo de Taquicardia por Estrés con Biofeedback Mecánico
 ## Roles
-Valentina Sánchez: Technical lead
+### Valentina Sánchez: Technical lead
 
-Ana Sofia Grajales: Firmware engineer
+### Ana Sofia Grajales: Firmware engineer
 
-David Saldarriaga: Verification & testing engineer
+### David Saldarriaga: Verification & testing engineer
 
-Miguel Jiménez: Hardware integration engineer
+### Miguel Jiménez: Hardware integration engineer
 
 
 ## Introduccion 
@@ -31,3 +31,19 @@ Diseñar e implementar un sistema embebido de monitoreo fisiológico capaz de de
 * Diseñar un sistema de actuación mediante un motor vibrador háptico que genere patrones de vibración controlados.
 * Implementar un mecanismo de biofeedback que guíe ejercicios de respiración mediante pulsos de vibración.
 * Desarrollar una interfaz gráfica de usuario para visualizar el estado del sistema y eventos registrados.
+# Alcance del proyecto
+El proyecto consiste en el desarrollo de un sistema embebido funcional capaz de monitorear frecuencia cardíaca y activar una respuesta mecánica de biofeedback basada en vibración.
+
+El sistema incluirá:
+
+- Un sensor de pulso tipo PPG para medir frecuencia cardíaca,
+- Un microcontrolador encargado del procesamiento de datos,
+- Un actuador mecánico vibratorio para generar patrones hápticos,
+- Un sistema de comunicación serial para logging y monitoreo,
+- Una interfaz gráfica para visualización de datos y configuración de parámetros.
+
+El sistema será implementado físicamente en una tarjeta ensamblada y alojado en una carcasa funcional, alimentado mediante una fuente externa o batería.
+
+El proyecto se enfocará en la detección de patrones simples de taquicardia asociados a estrés y la activación de un protocolo básico de respiración guiada, sin pretender reemplazar dispositivos médicos certificados.
+
+
