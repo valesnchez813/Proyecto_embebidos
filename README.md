@@ -22,3 +22,12 @@ Por esta razón, se plantea el desarrollo de un sistema embebido que permita:
 * Monitorear la frecuencia cardíaca en tiempo real,
 * Identificar patrones compatibles con taquicardia asociada a estrés,
 * Activar un actuador mecánico que guíe al usuario en un patrón de respiración regulada.
+
+## Objetivo general
+Diseñar e implementar un sistema embebido de monitoreo fisiológico capaz de detectar riesgo de taquicardia por estrés y activar una intervención háptica que ayude al usuario a regular su ritmo respiratorio.
+## Objetivos específicos
+* Implementar un sistema de sensado de frecuencia cardíaca utilizando un sensor PPG.
+* Desarrollar un algoritmo en firmware que permita detectar aumentos sostenidos de frecuencia cardíaca asociados a estrés.
+* Diseñar un sistema de actuación mediante un motor vibrador háptico que genere patrones de vibración controlados.
+* Implementar un mecanismo de biofeedback que guíe ejercicios de respiración mediante pulsos de vibración.
+* Desarrollar una interfaz gráfica de usuario para visualizar el estado del sistema y eventos registrados.
