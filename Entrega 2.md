@@ -1,7 +1,6 @@
 # Requerimientos funcionales
 ## Sensado
-RF-001: El sistema debe medir la frecuencia cardíaca (BPM) mediante un sensor PPG.
-// 
+RF-001: El sistema debe medir la frecuencia cardíaca (BPM) mediante un sensor PPG.  
 RF-002: El sistema debe calcular la frecuencia cardíaca en tiempo real.
 RF-003: El sistema debe detectar valores fuera de rango (BPM < 40 o > 180).
 RF-004: El sistema debe detectar desconexión o falla del sensor.
