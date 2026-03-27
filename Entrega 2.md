@@ -21,5 +21,13 @@ RF-012: El sistema debe mostrar la frecuencia cardíaca en la GUI.
 RF-013: El sistema debe registrar eventos detectados en la GUI.
 
 # Requerimientos no funcionales
+RNF-001: El sistema debe operar en tiempo real con actualización ≤ 1 segundo.  
+RNF-002: El sistema debe implementar logging con niveles (INFO, WARN, ERROR).  
+RNF-003: El sistema debe manejar errores del sensor sin detener el sistema.  
+RNF-004: El sistema debe ser portátil y funcionar con batería externa.  
+RNF-005: El cálculo de BPM debe tener un error máximo de ±5 BPM.  
+RNF-006: La interfaz debe ser intuitiva y comprensible para un usuario no técnico.
+
+
 # Plan de testing y pruebas
 # Plantillas para los test cases
