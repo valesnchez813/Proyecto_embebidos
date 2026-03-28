@@ -30,4 +30,8 @@ RNF-006: La interfaz debe ser intuitiva y comprensible para un usuario no técni
 
 
 # Plan de testing y pruebas
-# Plantillas para los test cases
+# Plantillas para los test cases![WhatsApp Image 2026-03-27 at 8 11 08 PM](https://github.com/user-attachments/assets/f27d1512-b83a-43d2-aab5-9265b1c0cc4f)
+
+<img width="1414" height="2000" alt="Test Type" src="https://github.com/user-attachments/assets/720c0585-de4b-4689-99cb-35aff47b5f69" />
+
+
